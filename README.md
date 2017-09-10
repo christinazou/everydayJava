@@ -1,4 +1,4 @@
-# everydayJava － java学习资源
+# java学习资源
 
 入门级 寻找有讲解，有完整代码 的教程
 
@@ -7,3 +7,6 @@
 [ tutorialspoint Spring Tutorial](https://www.tutorialspoint.com/spring/index.htm) 极客学院教程的原文 ★★★★★
 
 ### Spring MVC
+
+## todo
+http://www.logicbig.com/tutorials/spring-framework/spring-core/
