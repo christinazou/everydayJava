@@ -10,7 +10,7 @@
 ### Spring MVC
 [crunchify Spring MVC Hello World Example](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/) 完整代码的hello world例子。 ★★★★★
 
-[Spring Framework Reference Documentation 22. Web MVC framework ](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) 文档 内容较多，比较权威，但是不易理解。★★★★☆
+[Spring Documentation 22. Web MVC framework ](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) 文档 内容较多，比较权威，但是不易理解。★★★★☆
 
 
 ## todo
