@@ -10,7 +10,6 @@
 ### Spring MVC
 [journaldev java web app tutorial for beginners](https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners) Spring MVC 的hello world例子，代码可用。★★★★★
 
-https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners
 [Spring Documentation 22. Web MVC framework ](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) 文档 内容较多，比较权威，但是不易理解。★★★★☆
 
 [crunchify Spring MVC Hello World Example](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/) 完整代码的hello world例子。 代码调试不出来。★☆☆☆☆
