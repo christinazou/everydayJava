@@ -24,6 +24,10 @@
 
 [jApache FreeMarker Manual](http://freemarker.org/docs/) 官方文档。★★★★★
 
+## 持久层
+
+Mybatis: 支持定制化 SQL、存储过程以及高级映射的优秀的持久层框架，需要手写sql，灵活，可控性强
+
 
 
 ## todo
