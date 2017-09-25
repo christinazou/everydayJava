@@ -20,7 +20,7 @@
 
 ### freemarker
 
-[jApache FreeMarker Manual](http://freemarker.org/docs/) 官方文档。★★★★★
+[Apache FreeMarker Manual](http://freemarker.org/docs/) 官方文档。★★★★★
 
 ## 持久层
 
