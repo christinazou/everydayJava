@@ -14,8 +14,6 @@
 
 [journaldev java web app tutorial for beginners](https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners) Spring MVC 的hello world例子，代码可用。★★★★★
 
-
-
 [crunchify Spring MVC Hello World Example](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/) 完整代码的hello world例子。 代码调试不出来。★☆☆☆☆
 
 ## 网页模板引擎
@@ -26,7 +24,7 @@
 
 ## 持久层
 
-Mybatis: 支持定制化 SQL、存储过程以及高级映射的优秀的持久层框架，需要手写sql，灵活，可控性强
+[Mybatis](http://www.mybatis.org/mybatis-3/zh/)
 
 
 
