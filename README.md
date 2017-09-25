@@ -8,11 +8,22 @@
 [ tutorialspoint Spring Tutorial](https://www.tutorialspoint.com/spring/index.htm) 极客学院教程的原文 ★★★★★
 
 ### Spring MVC
+
+
+[Spring Documentation 22. Web MVC framework ](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) 官方文档。 内容较多，权威，读了以后就不用再读别的了，但是不易理解。推荐先跟着教程做一个hello world，再来读就很好理解了 。★★★★★
+
 [journaldev java web app tutorial for beginners](https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners) Spring MVC 的hello world例子，代码可用。★★★★★
 
-[Spring Documentation 22. Web MVC framework ](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) 文档 内容较多，比较权威，但是不易理解。★★★★☆
+
 
 [crunchify Spring MVC Hello World Example](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/) 完整代码的hello world例子。 代码调试不出来。★☆☆☆☆
+
+## 网页模板引擎
+
+### freemarker
+
+[jApache FreeMarker Manual](http://freemarker.org/docs/) 官方文档。★★★★★
+
 
 
 ## todo
